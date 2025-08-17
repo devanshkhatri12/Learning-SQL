@@ -1,6 +1,6 @@
-# DDL (Data Definition query) Command
+# DML (Data manipulation language) Command
 
-- Here we practice all the Commands comes under DDL, and commands are:
+- Here we practice all the Commands comes under DML, and commands are:
 
 1.  `INSERT`
 
@@ -15,4 +15,3 @@
     3.2  `ON DELETE SET NULL`
 
 4.  `REPLACE`
-
